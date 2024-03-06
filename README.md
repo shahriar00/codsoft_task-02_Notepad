@@ -4,3 +4,4 @@
 ### This is UI of this applicaiton:
 
 ![img1](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/a1acc3b9-7ffb-422f-b5c5-56d1edaf852d)
+![img2](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/254a50f1-a0c3-4509-9298-39407f36be8f)
