@@ -9,5 +9,4 @@
 
 ## That's it.
 ### Thank you.Get in Touch With me.
-![smile](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/4397443b-d946-4dfd-bf55-4705e7364da6)
 
