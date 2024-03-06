@@ -8,5 +8,6 @@
 ![WhatsApp Image 2024-03-06 at 2 50 09 PM](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/c0f0d438-a81a-4285-9fda-2c473e658501)
 
 ## That's it.
-### Thank you.Get in Touch With me. ![smile](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/4397443b-d946-4dfd-bf55-4705e7364da6)
+### Thank you.Get in Touch With me.
+![smile](https://github.com/shahriar00/Notepad-SQLITE/assets/70763173/4397443b-d946-4dfd-bf55-4705e7364da6)
 
