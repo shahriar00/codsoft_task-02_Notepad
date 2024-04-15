@@ -9,6 +9,7 @@ class SQlHelper {
         CreatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
     )""");
   }
+  
 
   static Future<sql.Database> db() async {
     return sql.openDatabase(
